@@ -1,0 +1,28 @@
+build/
+bin/
+dist/
+manifest.mf
+
+# Eclipse
+.classpath
+.project
+.settings
+
+# NetBeans
+nbproject/
+
+# Maven
+build.xml
+target/
+
+# Vim
+.*.sw[a-p]
+
+# Mac Dust
+.DS_Store
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
